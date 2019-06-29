@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="F:/frame/spring/01 Spring 官方包及源码/spring-framework-5.1.6.RELEASE/schema/aop/spring-aop.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="F:/frame/spring/01 Spring 官方包及源码/spring-framework-5.1.6.RELEASE/schema/beans/spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="F:/frame/spring/01 Spring 官方包及源码/spring-framework-5.1.6.RELEASE/schema/context/spring-context.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
